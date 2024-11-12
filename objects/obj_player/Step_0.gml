@@ -1,6 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+var fake_var = 0;
+var player_name = "Link";
+
+//this is just to show how this works ok??
+var friction_new = 0.5;
+
 //slow the player down on the x-axis
 x_vel *= 0.9
 
