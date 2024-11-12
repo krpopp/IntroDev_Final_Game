@@ -9,5 +9,6 @@
     {"name":"spr_burger","order":5,"path":"sprites/spr_burger/spr_burger.yy",},
     {"name":"spr_dog1","order":1,"path":"sprites/spr_dog1/spr_dog1.yy",},
     {"name":"spr_dog2","order":3,"path":"sprites/spr_dog2/spr_dog2.yy",},
+    {"name":"spr_fake","order":6,"path":"sprites/spr_fake/spr_fake.yy",},
   ],
 }

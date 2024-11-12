@@ -31,7 +31,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2022.0.2.51",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"BouncePhysicsEnd",
   "resources":[
@@ -44,6 +44,7 @@
     {"id":{"name":"spr_burger","path":"sprites/spr_burger/spr_burger.yy",},},
     {"id":{"name":"spr_dog1","path":"sprites/spr_dog1/spr_dog1.yy",},},
     {"id":{"name":"spr_dog2","path":"sprites/spr_dog2/spr_dog2.yy",},},
+    {"id":{"name":"spr_fake","path":"sprites/spr_fake/spr_fake.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
